@@ -1,1 +1,3 @@
-# jamesritchey.github.io
+# Description
+
+James Daniel Marrs Ritchey is a (hobbyist) creator from Canada.
